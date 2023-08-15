@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "mystery": "Mystery Quest, cursive"
+        "mystery": "Mystery Quest, cursive",
+        "monteserrat": "Montserrat, sans-serif"
       }
     },
   },
